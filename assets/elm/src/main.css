@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: #293c4b;
+  font-family: 'Source Sans Pro', 'Trebuchet MS', 'Lucida Grande', 'Bitstream Vera Sans', 'Helvetica Neue', sans-serif;
+  font-size: 30px;
+}
+
+img#elm-logo {
+  margin: 20px 0;
+  max-width: 200px;
+}
